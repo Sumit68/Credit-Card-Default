@@ -1,7 +1,7 @@
 # Credit-Card-Default
 
 ## Technologies:
-- Programming Language: Python,HTML,CSS,Javascript
+- Programming Language: Python
 - Libraries: Pandas, Scikit-learn, Matplotlib, Numpy
 
 ## Approach
